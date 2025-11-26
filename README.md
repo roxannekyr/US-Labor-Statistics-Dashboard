@@ -5,7 +5,7 @@ This project features an interactive Excel Dashboard designed to analyze and vis
 The tool allows users to drill down into specific industries (e.g., Construction, Finance, Technology) and view comparative metrics such as "Employees per 1,000 Capita" and "Average Annual Wages."
 
 
-The dashboard focuses on four main analytical areas:
+<h2>The dashboard focuses on four main analytical areas:</h2>
 
 Industry Performance:
 -Compares Average Annual Wages across different sectors to identify high-paying industries.
