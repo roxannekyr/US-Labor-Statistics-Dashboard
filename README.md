@@ -4,7 +4,7 @@
 This project features an interactive Excel Dashboard designed to analyze and visualize labor market trends across the United States. Using data spanning from 2017 to 2020, the dashboard provides insights into employment figures, wage growth, and industry performance across the states.
 The tool allows users to drill down into specific industries (e.g., Construction, Finance, Technology) and view comparative metrics such as "Employees per 1,000 Capita" and "Average Annual Wages."
 
-📈 Dashboard Features
+
 The dashboard focuses on four main analytical areas:
 
 Industry Performance:
