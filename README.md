@@ -27,7 +27,7 @@ Dynamic Filtering: Users can filter the entire view by specific Industries (e.g.
 <h2>Tools used in this project:</h2>
 - <b>Microsoft Excel</b> 
 
-<h2>Excel Dashboard :</h2>
+<h2>Excel Dashboard</h2>
 <img src="https://imgur.com/nERqu8m.png" height="80%" width="80%" alt="US Labor Statistics Dashboard"/>
 <br />
 <br />
