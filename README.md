@@ -7,9 +7,7 @@ The tool allows users to drill down into specific industries (e.g., Construction
 
 <h2>The dashboard focuses on below four main analytical areas</h2>
 
-Industry Performance:
-
-Compares Average Annual Wages across different sectors to identify high-paying industries.
+Industry Performance: Compares Average Annual Wages across different sectors to identify high-paying industries.
 
 Visualizes total Employees by Industry to highlight the largest employment sectors.
 
