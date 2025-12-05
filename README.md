@@ -5,7 +5,7 @@ This project features an interactive Excel Dashboard designed to analyze and vis
 The tool allows users to drill down into specific industries (e.g., Construction, Finance, Technology) and view comparative metrics such as "Employees per 1,000 Capita" and "Average Annual Wages."
 
 
-<h2>The dashboard focuses on four main analytical areas:</h2>
+<h2>The dashboard focuses on below four main analytical areas</h2>
 
 Industry Performance:
 
@@ -24,7 +24,7 @@ Population Normalization: Includes a calculated metric for Employees per 1,000 C
 Dynamic Filtering: Users can filter the entire view by specific Industries (e.g., selecting "Construction" updates all charts to reflect only construction data).
 <br />
 
-<h2>Tools used in this project:</h2>
+<h2>Tools used in the project</h2>
 <b>Microsoft Excel</b> 
 
 <h2>Excel Dashboard</h2>
